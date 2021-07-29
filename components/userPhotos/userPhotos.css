@@ -1,0 +1,9 @@
+img {
+  width: 540px; 
+  height: auto;
+}
+
+.div-comment {
+  display: flex;
+  flex-direction: row;
+}

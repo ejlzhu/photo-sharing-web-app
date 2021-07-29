@@ -1,0 +1,26 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: "center";
+}
+
+.cs142-topbar-version-number {
+  height: 60;
+  justify-content: "center";
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+}
+
+.cs142-topbar-message {
+  height: 60;
+  justify-content: "center";
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+button {
+  display: inline-block;
+  margin: 10px;
+  padding-right: 30px;
+}
